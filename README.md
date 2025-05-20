@@ -71,6 +71,7 @@ demo = gr.Interface(fn=captioner,
 demo.launch()
 #demo.launch(share=True, server_port=int(os.environ['PORT1']))
 gr.close_all()
+```
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/a2c3aee8-cc0f-4729-a0ef-fb0fd655c622)
 
