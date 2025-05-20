@@ -73,7 +73,8 @@ demo.launch()
 gr.close_all()
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/a2c3aee8-cc0f-4729-a0ef-fb0fd655c622)
+![image](https://github.com/user-attachments/assets/e942dc16-fe13-41e1-ace4-0a532545e9d1)
+
 
 
 ### RESULT:
